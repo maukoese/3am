@@ -1,0 +1,26 @@
+{
+  "name": "3am",
+  "version": "1.0.0",
+  "description": "3AM Confessions - Poems by Mauko Maunde",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maukoese/3am.git"
+  },
+  "keywords": [
+    "love",
+    "poetry",
+    "sheilla",
+    "hurt",
+    "adventure"
+  ],
+  "author": "Mauko Maunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maukoese/3am/issues"
+  },
+  "homepage": "https://github.com/maukoese/3am#readme"
+}
